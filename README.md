@@ -97,7 +97,7 @@
 
 ## ***Анализ бизнес показателей Procrastinate Pro+***
 
-**Файл проекта:** [#07 - Анализ бизнес показателей Procrastinate Pro+.ipynb](https://github.com/obertas-artem/my_projects/blob/main/07%20-%20Анализ%20бизнес%20показателей%20Procrastinate%20Pro%2B/07%20-%20Анализ%20бизнес%20показателей%20Procrastinate%20Pro.ipynb)
+**Файл проекта:** [#07 - Анализ бизнес показателей Procrastinate Pro+.ipynb](https://github.com/obertas-artem/my_projects/blob/main/07%20-%20Анализ%20бизнес%20показателей%20Procrastinate%20Pro/07%20-%20Анализ%20бизнес%20показателей%20Procrastinate%20Pro.ipynb)
 |  | **Информация** | 
 |:----:|----|
 | **Описание проекта** | Проведен анализ данных от ProcrastinatePRO+.Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д. Использованы уже написанные ранее функции расчёта метрик. Сделаны правильные выводы по полученным данным. |
