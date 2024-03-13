@@ -1,4 +1,1 @@
-# Привет
-Спасибо большое за ревью и за дополнительный материал, с файлом маркдаун до этого не сталкивался, изучу поподробнее, тултип исправил, выводы тоже, мне показалось трудным развернуться в выводах
-
-[Ссылка на вторую версию дашборда](https://public.tableau.com/app/profile/artem7301/viz/Dashboardformanagersv2/sheet4)
+[Ссылка на дашборд](https://public.tableau.com/app/profile/artem7301/viz/Dashboardformanagersv2/sheet4)
